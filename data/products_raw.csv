@@ -1,0 +1,4 @@
+product_id,product_name,category,price,stock_quantity
+P001,Samsung Galaxy S21,Electronics,45999.00,150
+P002,Nike Running Shoes,fashion,3499.00,80
+P003,Apple MacBook Pro,ELECTRONICS,,45
