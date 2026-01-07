@@ -1,0 +1,4 @@
+Customers read: 25
+Customers loaded: 24
+Products loaded: 20
+Sales loaded: 34
